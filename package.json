@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@nuxt/content": "https://pkg.pr.new/@nuxt/content@0ec629a",
+    "better-sqlite3": "^12.4.1",
     "nuxt": "^4.2.0",
     "sqlite3": "^5.1.7"
   }
